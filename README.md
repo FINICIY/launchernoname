@@ -1,2 +1,3 @@
 # launchernoname
-launcher for happy game\
+launcher for happy game
+
